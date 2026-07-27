@@ -43,7 +43,7 @@ A modern, professional expense tracking web application built with Next.js 14, T
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/kriszwart/expensetracker.git
 cd expensetracker
 ```
 
@@ -235,10 +235,9 @@ Potential features for future versions:
 
 ## 📝 License
 
-This project is open source and available for personal and educational use.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ## 🤝 Contributing
-
 Feel free to fork this project and submit pull requests for any improvements!
 
 ## 📧 Support
